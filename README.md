@@ -1,13 +1,7 @@
 # EntangleX-v2.0
 A Digital Simulation
 
-# EntangleX v2 — User Guide (Slide 1 & Slide 2)
-
-This guide covers every control, visual indicator, and mathematical step in **Slide 1** and **Slide 2** of **EntangleX v2**.
-
----
-
-## Part 1: Slide 1 — `1. Bell State Lab (Create)`
+# EntangleX v2 — User Guide
 
 Slide 1 lets you build, inspect, and compare **unentangled states** and all **4 maximally entangled Bell states** using quantum logic gates.
 
